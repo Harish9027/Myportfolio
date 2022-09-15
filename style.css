@@ -266,7 +266,11 @@ section .title::after{
     font-size:40px;
     color:royalblue;
 }
-
+.edu .center
+{
+    margin-left: auto;
+    margin-right: auto;
+}
 
 /* skills section styling */
 #more {display: none;}
